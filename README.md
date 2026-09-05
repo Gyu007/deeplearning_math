@@ -11,7 +11,7 @@
 [![Publisher](https://img.shields.io/badge/publisher-Jpub-orange.svg)](https://jpub.tistory.com/)
 [![Python](https://img.shields.io/badge/python-3.10+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/made%20with-Jupyter-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1L7BtIuGK9AcAz4XtNJCLX0b-usbHBOLt?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Progress](https://img.shields.io/badge/progress-1%2F11%20chapters-yellow.svg)](#-챕터-목록)
 [![Last Commit](https://img.shields.io/github/last-commit/YOUR-ID/YOUR-REPO.svg)](https://github.com/YOUR-ID/YOUR-REPO/commits)
 [![Stars](https://img.shields.io/github/stars/YOUR-ID/YOUR-REPO.svg?style=social)](https://github.com/YOUR-ID/YOUR-REPO/stargazers)
@@ -106,7 +106,7 @@
 모든 노트북은 **Google Colab 기준**으로 작성되어 있어 별도의 설치 없이 바로 실행할 수 있습니다.
 
 1. 위 챕터 목록에서 원하는 챕터 폴더로 이동합니다.
-2. 챕터 `README.md`의 표에서 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1L7BtIuGK9AcAz4XtNJCLX0b-usbHBOLt?usp=sharing) 배지를 클릭합니다.
+2. 챕터 `README.md`의 표에서 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) 배지를 클릭합니다.
 3. Colab에서 `런타임 → 모두 실행`으로 노트북을 실행합니다.
 
 <details>
