@@ -13,7 +13,7 @@
 | 절 | 주제 | 노트북 | Colab | 상태 |
 |:--:|:--|:--|:--:|:--:|
 | **4.1** | 데이터의 종류 | [`1_데이터의종류.ipynb`](./1_데이터의종류.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyu007/deeplearning_math/blob/main/Ch04_%ED%86%B5%EA%B3%84/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EC%A2%85%EB%A5%98.ipynb) | ✅ |
-| **4.2** | 요약 통계량 | `2_요약통계량.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
+| **4.2** | 요약 통계량 | [`2_요약통계량.ipynb`](./2_요약통계량.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | ⬜ |
 | **4.3** | 분위수와 상자 그림 | `3_분위수와상자그림.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
 | **4.4** | 결측 자료 | `4_결측자료.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
 | **4.5** | 상관관계 | `5_상관관계.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
