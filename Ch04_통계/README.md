@@ -17,7 +17,7 @@
 | **4.3** | 분위수와 상자 그림 | [`3_분위수와상자그림.ipynb`](./3_분위수와상자그림.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyu007/deeplearning_math/blob/main/Ch04_%ED%86%B5%EA%B3%84/3_%EB%B6%84%EC%9C%84%EC%88%98%EC%99%80%EC%83%81%EC%9E%90%EA%B7%B8%EB%A6%BC.ipynb) | ✅ |
 | **4.4** | 결측 자료 | [`4_결측자료.ipynb`](./4_결측자료.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyu007/deeplearning_math/blob/main/Ch04_%ED%86%B5%EA%B3%84/4_%EA%B2%B0%EC%B8%A1%EC%9E%90%EB%A3%8C.ipynb) | ✅ |
 | **4.5** | 상관관계 | [`5_상관관계.ipynb`](./5_상관관계.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyu007/deeplearning_math/blob/main/Ch04_%ED%86%B5%EA%B3%84/5_%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84.ipynb) | ✅ |
-| **4.6** | 가설 검정 | `6_가설검정.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
+| **4.6** | 가설 검정 | [`6_가설검정.ipynb`](6_가설검정.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | ⬜ |
 
 > 상태 표기 — ⬜ 예정 · 🟡 진행 중 · ✅ 완료
 
